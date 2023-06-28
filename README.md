@@ -1,5 +1,5 @@
 # alu-web_front_end
-# Techium Homepage
+# Responsive Design : Techium Homepage
 
 Techium Homepage is a responsive web design project that showcases the services, works, and information about the Techium company. It features a modern and sleek design with various sections highlighting different aspects of the company.
 
