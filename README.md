@@ -37,7 +37,7 @@ The project utilizes the following technologies:
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: Using `git clone`
+1. Clone the repository: Using `git clone https://github.com/Tripp808/alu-web_front_end`
 2. Navigate to the project directory: `cd responsive_design`
 
 ## Usage
